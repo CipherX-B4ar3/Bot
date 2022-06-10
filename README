@@ -1,0 +1,14 @@
+[ config.ini ] ➤ edit ↴
+                     ➤ api_id = YOUR_API_ID
+                     ➤ api_hash = YOUR_API_HASH
+
+[ run ] ↴
+        ➤ chmod 777 *
+        ➤ ./install.sh
+        
+  
+
+My ID ➤ @EBLETSM
+
+My ID ( RUBIKA ) ➤ @CipherX
+
